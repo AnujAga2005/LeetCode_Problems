@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
