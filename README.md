@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
