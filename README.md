@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
