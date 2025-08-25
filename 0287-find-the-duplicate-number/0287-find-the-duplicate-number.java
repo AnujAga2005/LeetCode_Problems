@@ -4,8 +4,6 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             if(!hm.add(nums[i])){
                 return nums[i];
-            }else{
-                hm.add(nums[i]);
             }
         }
         return 0;
