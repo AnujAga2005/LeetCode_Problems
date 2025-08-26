@@ -1,8 +1,6 @@
 class Solution {
     public int[] plusOne(int[] digits) {
         int[] ans = new int[digits.length+1];
-        int length = digits.length-1;
-        int carry = 0;
         int j = ans.length-1;
         for(int i=1; i<=digits.length; i++){
             ans[i] = digits[i-1];
