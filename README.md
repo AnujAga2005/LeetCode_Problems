@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1646-kth-missing-positive-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [2058-concatenation-of-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
