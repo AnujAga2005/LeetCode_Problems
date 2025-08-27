@@ -5,8 +5,7 @@ class Solution {
             if(operations[i].equals("C")){
                 s.pop();
             }else if(operations[i].equals("D")){
-                int temp = 2*s.peek();
-                s.push(temp);
+                s.push(2*s.peek());
             }else if(operations[i].equals("+")){
                 int last = s.pop();
                 int secondLast = s.peek();
@@ -17,8 +16,8 @@ class Solution {
             }   
         }
         int ans = 0;
-        for (int val : s) {
-            ans += val;
+        while(!s.isEmpty()){
+            ans+=s.pop();
         }
         return ans;
     }
