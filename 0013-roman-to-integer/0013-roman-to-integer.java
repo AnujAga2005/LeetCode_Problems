@@ -20,15 +20,13 @@ class Solution {
     for(int i=0; i<length-1;i++){
         int value = hm.get(s.charAt(i));
         if(hm.get(s.charAt(i))<hm.get(s.charAt(i+1))){
-            value = hm.get(s.charAt(i+1))-hm.get(s.charAt(i));
-            i++;
+            sum = sum-value;
+        }else{
+            sum = sum + value;
         }
-        sum = sum + value;
+        
     }
-    
-    if(hm.get(s.charAt(length-1))<=hm.get(s.charAt(length-2))){
-        sum = sum + hm.get(s.charAt(s.length()-1));
-    }
+    sum += hm.get(s.charAt(s.length() - 1));
     
     
     return sum;  
