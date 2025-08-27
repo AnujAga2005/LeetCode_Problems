@@ -3,7 +3,6 @@ class Solution {
         if(s.length()==0){
             return 0;
         }
-
     HashMap<Character,Integer> hm = new HashMap<>();
     hm.put('I',1);
     hm.put('V',5);
@@ -24,11 +23,8 @@ class Solution {
         }else{
             sum = sum + value;
         }
-        
     }
     sum += hm.get(s.charAt(s.length() - 1));
-    
-    
     return sum;  
     }
 }
