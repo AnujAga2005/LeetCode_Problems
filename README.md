@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -189,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
