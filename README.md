@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
