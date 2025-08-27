@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
 ## String
 |  |
