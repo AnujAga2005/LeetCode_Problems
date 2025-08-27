@@ -16,16 +16,11 @@ class Solution {
                 s.push(Integer.parseInt(operations[i]));
             }   
         }
-        int ans = total(s);
-        return ans;
-        
-    }
-    public int total(Stack<Integer> s){
-        int sum = 0;
-        while(!s.isEmpty()){
-            sum += s.peek();
-            s.pop();
+        int ans = 0;
+        for (int val : s) {
+            ans += val;
         }
-        return sum;
+        return ans;
     }
+    
 }
