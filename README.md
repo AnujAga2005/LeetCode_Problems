@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1646-kth-missing-positive-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
