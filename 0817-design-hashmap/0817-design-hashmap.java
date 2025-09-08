@@ -1,21 +1,21 @@
 class MyHashMap {
-    public int[] hashmap;
+    public Integer[] hashmap;
     public MyHashMap() {
-        hashmap = new int[1000001];
+        hashmap = new Integer[1000001];
         
     }
     
     public void put(int key, int value) {
-        hashmap[key] = value+1;
+        hashmap[key] = value;
         
     }
     
     public int get(int key) {
-        return hashmap[key]-1;
+        return hashmap[key]==null ? -1 : hashmap[key];
     }
     
     public void remove(int key) {
-        hashmap[key] = 0;        
+        hashmap[key] = null;        
     }
 }
 
