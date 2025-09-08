@@ -5,10 +5,10 @@ class Solution {
         while(si<ei){
             if(s.charAt(si)!=s.charAt(ei)){
                 return validPalindrome2(s, si+1, ei) || validPalindrome2(s, si, ei-1);
-            }else{
+            }
                 si++;
                 ei--;
-            }
+            
         }
         return true;
     }
@@ -17,10 +17,10 @@ class Solution {
         while(si<ei){
             if(s.charAt(si)!=s.charAt(ei)){
                 return false;
-            }else{
+            }
                 si++;
                 ei--;
-            }
+            
         }
         return true;
     }
