@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -234,8 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
