@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
