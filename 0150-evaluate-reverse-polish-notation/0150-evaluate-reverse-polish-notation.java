@@ -4,35 +4,27 @@ class Solution {
             return Integer.parseInt(tokens[0]);
         }
         Stack<Integer> s = new Stack<>();
-        int a,b,c;
+        int a,b;
         for(int i=0; i<tokens.length; i++){
             String t = tokens[i];
             if(t.equals("+")){
-                a = s.pop();
-                b = s.pop();
-                c = b+a;
-                s.push(c);
+                s.push(s.pop()+s.pop());
                 continue;
             }
             else if(t.equals("-")){
                 a = s.pop();
                 b = s.pop();
-                c = b-a;
-                s.push(c);
+                s.push(b-a);
                 continue;
             }
             else if(t.equals("*")){
-                a = s.pop();
-                b = s.pop();
-                c = b*a;
-                s.push(c);
+                s.push(s.pop()*s.pop());
                 continue;
             }
             else if(t.equals("/")){
                 a = s.pop();
                 b = s.pop();
-                c = b/a;
-                s.push(c);
+                s.push(b/a);
                 continue;
             }
             s.push(Integer.parseInt(tokens[i]));
