@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
 ## String
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 ## Tree
