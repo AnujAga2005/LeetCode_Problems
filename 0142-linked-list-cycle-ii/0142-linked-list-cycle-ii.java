@@ -14,14 +14,18 @@ public class Solution {
         if(head==null){
             return null;
         }
-        HashMap<ListNode,Integer> hm = new HashMap<>();
-        ListNode temp = head;
-        while(temp!=null){
-            if(hm.containsKey(temp)){
-                return temp;
-            }else{
-                hm.put(temp, 1);
-                temp=temp.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                ListNode ptr = head;
+                while(ptr!=slow){
+                    ptr=ptr.next;
+                    slow = slow.next;
+                }
+                return ptr;
             }
         }
         return null;
