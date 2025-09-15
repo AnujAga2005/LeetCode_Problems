@@ -1,5 +1,8 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+        if(intervals.length<=1){
+            return intervals;
+        }
         Arrays.sort(intervals, (a,b)->a[0]-b[0]);
         List<int[]> ans = new ArrayList<>();
         int start = intervals[0][0];
