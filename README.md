@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
