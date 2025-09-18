@@ -1,33 +1,36 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
+        
+        int n = nums.length;
         Arrays.sort(nums);
-        for (int a =0; a <nums.length-3; a++) {
-            if (a > 0 && nums[a] ==nums[a - 1]) {
-                continue;
-            }
-            for (int i = a+1 ; i < nums.length-2; i++) {
-                if (i > 1 && nums[i] == nums[i-1] && i-1 != a) {
-                    continue;
+        for(int i=0; i<n; i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            for(int j=i+1; j<n;){
+                int p = j+1, q=n-1;
+
+                while(p<q){
+                    List<Integer> part = new ArrayList<>();
+                    long sum = (long)nums[i]+(long)nums[j]+(long)nums[p]+(long)nums[q];
+                    if(sum<target){
+                        p++;
+                    }else if(sum>target){
+                        q--;
+                    }else{
+                        part.add(nums[i]);
+                        part.add(nums[j]);
+                        part.add(nums[p]);
+                        part.add(nums[q]);
+                        ans.add(part);
+                        p++;
+                        q--;
+                        while(p<q && nums[p]==nums[p-1]) p++;
+                    }
                 }
-                int j = i+1;
-                int k = nums.length - 1;
-                while (k > j) {
-                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[a];
-                    if (sum == target) {
-                        res.add(new ArrayList<>(Arrays.asList(nums[a],nums[i], nums[j], nums[k])));
-                        j++;
-                        while (nums[j] == nums[j - 1] && j < k) {
-                            j++;
-                        }
-                    } else if (sum > target) {
-                        k--;
-                    } else
-                        j++;
-                }
+                j++;
+                while(j<n && nums[j]==nums[j-1]) j++;
             }
         }
-        return res;
-        
+        return ans;
     }
 }
