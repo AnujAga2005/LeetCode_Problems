@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -334,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
