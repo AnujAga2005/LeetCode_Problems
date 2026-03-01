@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1646-kth-missing-positive-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0326-power-of-three) |
+| [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 ## String
 |  |
 | ------- |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
