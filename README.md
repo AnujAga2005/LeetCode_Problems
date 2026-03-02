@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
