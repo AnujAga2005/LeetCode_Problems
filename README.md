@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+| [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
