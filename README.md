@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
