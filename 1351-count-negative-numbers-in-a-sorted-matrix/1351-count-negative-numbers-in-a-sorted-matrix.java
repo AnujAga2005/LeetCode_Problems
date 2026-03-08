@@ -8,6 +8,9 @@ class Solution {
                 if(grid[i][j]<0){
                     count++;
                 }
+                if(grid[i][j]>=0){
+                    break;
+                }
             }
 
         }
