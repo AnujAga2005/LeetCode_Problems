@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
