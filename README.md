@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
