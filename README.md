@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0830-positions-of-large-groups](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
