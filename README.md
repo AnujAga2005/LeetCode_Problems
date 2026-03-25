@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0830-positions-of-large-groups) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
+| [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
 ## Tree
 |  |
