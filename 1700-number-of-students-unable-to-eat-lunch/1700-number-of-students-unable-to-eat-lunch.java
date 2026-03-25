@@ -1,19 +1,20 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        Queue<Integer> stu = new LinkedList<>();
-        for(int x: students) stu.add(x);
-        int i =0;
-        int count = 0;
-        while(!stu.isEmpty() && count < stu.size()){
-            if(stu.peek() == sandwiches[i]){
-                i++;
-                stu.remove();
-                count =0;
+        int count0 = 0;
+        int count1 = 0;
+        for(int x: students){
+            if(x==0) count0++;
+            else count1++;
+        }
+        for(int y: sandwiches){
+            if(y==0){
+                if(count0==0) break;
+                else count0--;
             }else{
-                stu.add(stu.remove());
-                count++;
+                if(count1==0) break;
+                else count1--;
             }
         }
-        return stu.size();
+        return count0+count1;
     }
 }
