@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0830-positions-of-large-groups](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0830-positions-of-large-groups) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
