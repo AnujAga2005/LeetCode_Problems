@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0292-nim-game) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
 ## Brainteaser
 |  |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
