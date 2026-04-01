@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1108-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1544-make-the-string-great) |
