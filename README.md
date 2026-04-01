@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+| [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
