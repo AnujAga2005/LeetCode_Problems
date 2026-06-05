@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
