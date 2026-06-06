@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0242-valid-anagram) |
