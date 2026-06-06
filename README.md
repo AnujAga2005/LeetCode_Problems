@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3945-digit-frequency-score](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
+| [3945-digit-frequency-score](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
