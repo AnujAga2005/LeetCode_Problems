@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3941-password-strength](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3941-password-strength](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
