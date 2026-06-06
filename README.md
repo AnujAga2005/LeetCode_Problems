@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
+| [3794-reverse-string-prefix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
