@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
