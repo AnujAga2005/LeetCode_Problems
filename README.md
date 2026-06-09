@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0202-happy-number) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
