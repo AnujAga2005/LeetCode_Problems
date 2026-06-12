@@ -9,11 +9,8 @@ class Solution {
             maxWater = Math.max(currWater,maxWater);
             if(height[left]>height[right]){
                 right--;
-            }else if(height[left]<height[right]){
-                left++;
             }else{
                 left++;
-                right--;
             }
         }
         return maxWater;
