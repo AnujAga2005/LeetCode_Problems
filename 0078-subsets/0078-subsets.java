@@ -1,19 +1,18 @@
-import java.util.ArrayList;
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ls2 = new ArrayList<>();
-        List<Integer> ls1 = new ArrayList<>();
-        findSubsets(nums, 0, ls1, ls2);
-        return ls2;
-    }
-    public void findSubsets(int[] nums, int i, List<Integer> ls1, List<List<Integer>> ls2) {
-        if (i == nums.length) {
-            ls2.add(new ArrayList<>(ls1));
+    public void backtrack(int n, int[] nums, List<Integer> part,List<List<Integer>> ans ){
+        if(n==nums.length){
+            ans.add(new ArrayList<>(part));
             return;
         }
-        ls1.add(nums[i]);
-        findSubsets(nums, i + 1, ls1, ls2);
-        ls1.remove(ls1.size() - 1);
-        findSubsets(nums, i + 1, ls1, ls2);
+        part.add(nums[n]);
+        backtrack(n+1, nums, part, ans);
+        part.remove(part.size()-1);
+        backtrack(n+1, nums, part,ans);
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> part = new ArrayList<Integer>();
+        backtrack(0, nums, part, ans);
+        return ans;        
     }
 }
