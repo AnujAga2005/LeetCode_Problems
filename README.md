@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3941-password-strength) |
 ## Sorting
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
