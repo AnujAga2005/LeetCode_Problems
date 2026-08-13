@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
