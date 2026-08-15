@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [3945-digit-frequency-score](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1544-make-the-string-great) |
@@ -584,4 +586,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
