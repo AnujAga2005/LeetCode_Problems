@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
