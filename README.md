@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0179-largest-number) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 ## Queue
