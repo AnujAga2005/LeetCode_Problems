@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0763-partition-labels) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Combinatorics
 |  |
@@ -616,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
