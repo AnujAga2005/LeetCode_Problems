@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1646-kth-missing-positive-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1143-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
