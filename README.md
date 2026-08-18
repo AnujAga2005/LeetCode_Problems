@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3941-password-strength](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3941-password-strength) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
