@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
+| [2381-shifting-letters-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2381-shifting-letters-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2381-shifting-letters-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2381-shifting-letters-ii) |
 | [3174-clear-digits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2381-shifting-letters-ii) |
 ## Combinatorics
 |  |
 | ------- |
