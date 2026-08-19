@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0853-car-fleet) |
 ## Number Theory
