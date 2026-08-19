@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
