@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
