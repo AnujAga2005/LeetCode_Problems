@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0853-car-fleet](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0896-monotonic-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
