@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1544-make-the-string-great) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
+| [0901-online-stock-span](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Euclidean Algorithm
 |  |
