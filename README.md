@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
