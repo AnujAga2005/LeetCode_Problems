@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0495-teemo-attacking) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
