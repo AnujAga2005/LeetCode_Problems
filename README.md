@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 ## Binary Search Tree
@@ -784,4 +787,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
