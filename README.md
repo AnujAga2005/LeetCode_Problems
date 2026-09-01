@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 ## Enumeration
 |  |
