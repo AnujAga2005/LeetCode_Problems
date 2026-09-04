@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 ## Data Stream
 |  |
 | ------- |
