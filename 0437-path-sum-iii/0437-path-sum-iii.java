@@ -15,18 +15,24 @@
  */
 class Solution {
     int total = 0;
-    public void find(TreeNode root, long currSum , int target){
-        if(root == null) return;
+    public void find(HashMap<Long,Integer> hm, TreeNode root, Long currSum , int target){
+        if(root==null) return;
         currSum += root.val;
-        if(currSum==target) total++;
-        find(root.left , currSum ,target);
-        find(root.right , currSum ,target);
+        if(hm.containsKey(currSum-target)){
+            total += hm.get(currSum-target);
+        }
+        hm.put(currSum , hm.getOrDefault(currSum,0)+1);
+        find(hm , root.left, currSum , target);
+        find(hm , root.right, currSum , target);
+        hm.put(currSum, hm.get(currSum)-1);
+        return;
+        
     }
     public int pathSum(TreeNode root, int targetSum) {
-        if(root==null) return 0;
-        find(root, 0, targetSum);
-        pathSum(root.left, targetSum);
-        pathSum(root.right, targetSum);
+        if(root == null ) return 0;
+        HashMap<Long, Integer> hm = new HashMap<>();
+        hm.put(0L,1);
+        find(hm, root,0L,targetSum);
         return total;
     }
 }
