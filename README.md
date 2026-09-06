@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1037-valid-boomerang) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
