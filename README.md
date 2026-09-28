@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0794-valid-tic-tac-toe-state](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0816-design-hashset](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0817-design-hashmap) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0794-valid-tic-tac-toe-state](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0898-transpose-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnujAga2005/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
